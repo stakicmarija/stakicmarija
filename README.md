@@ -1,16 +1,16 @@
-## Hi there 👋
 
-<!--
-**stakicmarija/stakicmarija** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  
+<div align="center">
 
-Here are some ideas to get you started:
+#  Marija Stakić 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Software Engineering Student @ ETF Belgrade
+
+૮ • ﻌ • ა 
+
+</div>
+
+---
+Hi! I’m Marija, a final-year Software Engineering student at the University of Belgrade (ETF), currently one exam away from graduation and excited to begin my professional journey as a software engineer.
+
+I enjoy building reliable and well-structured software and have hands-on experience ranging from low-level systems work to full stack development. I’m especially motivated to keep improving my engineering fundamentals and to grow through real-world challenges.
